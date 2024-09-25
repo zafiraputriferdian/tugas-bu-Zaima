@@ -1,0 +1,38 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image:url(1235941.jpg);
+   }
+    
+   .tulisan_login{
+    text-align: center;
+    text-transform: uppercase;
+   }
+    
+   .kotak_login{
+    width: 350px;
+    margin: 80px auto;
+    padding: 30px 20px;
+   }
+    
+   label{
+    font-size: 11pt;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+    
+   .form_login{
+    box-sizing : border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+   }
+    
+   .tombol_login{
+    background: #ce555f;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+   }
